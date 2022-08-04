@@ -4,7 +4,7 @@
 - I am currently working on expanding my knowledge in this tech stack (specifically Blazor) along with improving my HTML/CSS skills while learning Python and Azure Cloud Services.
 
 ### Contact Me
-[Portfolio](https://tylerevers.com/)
+[Portfolio](https://tylereversportfolio.azurewebsites.net/)
 [LinkedIn](https://www.linkedin.com/in/tyler-evers-903342166/)
 [Email](mailto:mail@tylerevers.com)
 
