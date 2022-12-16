@@ -4,8 +4,8 @@
 - I am currently working on expanding my knowledge in this tech stack (specifically Blazor) along with improving my HTML/CSS skills while learning Python and Azure Cloud Services.
 
 ### Contact Me
-[Portfolio](https://tylereversportfolio.azurewebsites.net/)
+[Portfolio](https://www.tylerevers.com/)
 [LinkedIn](https://www.linkedin.com/in/tyler-evers-903342166/)
 [Email](mailto:mail@tylerevers.com)
 
-Outside of software development I enjoy, hiking, playing video games, watching movies, and American football.
+Outside of software development I enjoy, hiking, video games, watching films and American football.
